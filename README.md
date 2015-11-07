@@ -9,3 +9,6 @@ Use Cpp to generate batch script and executes it to create folders
 #### IDE Used
 
  - Code blocks
+
+Download the compiled binary for windows here:
+https://github.com/gautamkrishnar/Easy-folder-creator/releases
