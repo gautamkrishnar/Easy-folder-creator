@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1345736744 source:d:\my_softwares\c++\code blocks\easy folder creator\main.cpp
+	<iostream>
+	<fstream.h>
+	<stdlib.h>
+
